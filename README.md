@@ -1,2 +1,1 @@
-# blogdowelliton
-Meu blog da disciplina PPSI 2
+Esse blog faz parte da disciplina de Padrões de Projetos de Sítios II
